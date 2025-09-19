@@ -1,4 +1,4 @@
-base_url = "https://makena.dev"
+base_url = "https://www.makena.dev"
 compile_sass = true
 generate_feeds = true
 theme = "radion"
